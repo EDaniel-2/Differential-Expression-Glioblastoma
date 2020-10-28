@@ -1,4 +1,4 @@
-# Differential-Expression-Glioblastoma  
+# Gene-Expression-Glioblastoma  
 ### The data analysis in this project requires a computer with a very large amount of RAM.
 
 This project analyzes RNA-Seq data of the malignant brain tumor Glioblastoma Multiforme.  
